@@ -14,7 +14,11 @@ ul {
 }
 
 body {
+<<<<<<< HEAD
   background-image: url('../imgs/mybackground.jpg');
+=======
+  background-image: url('mybackground.jpg');
+>>>>>>> 0dd38bf91227609732b20414725ab826b28fcf72
   color: white;
 }
 
@@ -47,6 +51,7 @@ img {
 
 }
 
+<<<<<<< HEAD
 .card {
   background-color: white;
   border-radius: 10%;
@@ -58,6 +63,8 @@ img {
   
 }
 
+=======
+>>>>>>> 0dd38bf91227609732b20414725ab826b28fcf72
 .flex {
   display: flex;
   justify-content: center;
@@ -99,12 +106,15 @@ img {
   background: rgba(66, 66, 66, .5);
 }
 
+<<<<<<< HEAD
 .skills img {
   
   max-width: 100px;
   height: auto;
 }
 
+=======
+>>>>>>> 0dd38bf91227609732b20414725ab826b28fcf72
 
 
 
