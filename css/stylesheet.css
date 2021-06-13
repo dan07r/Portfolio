@@ -53,6 +53,8 @@ img {
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
   padding: 5px;
   margin: 10px;
+  color: black;
+  text-align: center;
   
 }
 
