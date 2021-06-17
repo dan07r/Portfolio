@@ -16,12 +16,15 @@ ul {
 body {
   background-image: url('../imgs/mybackground.jpg');
   color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-img {
+.image-container img {
   width: 350;
   height: 450px;
   padding: 20px;
+  
 }
 
 
